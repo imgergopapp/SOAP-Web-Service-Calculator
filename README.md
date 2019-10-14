@@ -10,8 +10,10 @@
 - Maven
 - Apache Tomcat 7
 
-### Compiling and deplyoging
+### Compiling and deploying
 OS X & Linux:
 ```sh
 mvn clean package tomcat7:redeploy
 ```
+### Notes
+The project also includes the SoapUI project file.
